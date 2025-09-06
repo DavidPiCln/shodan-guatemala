@@ -152,7 +152,7 @@ def main():
     else:
         print("  Ningún puerto contado.")
 
-    print("\nHecho. Guarda este script en un repositorio GitHub y sube la URL para entrega.")
+    print("\nHecho.")
 
 if __name__ == '__main__':
     main()
